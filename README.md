@@ -1,2 +1,0 @@
-# myNewSite
-Nuevo jekyll
